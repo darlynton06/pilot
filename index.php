@@ -26,6 +26,7 @@
 
     <!-- Theme CSS -->
     <link href="css/agency.min.css" rel="stylesheet">
+    <link href="css/gebos.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -98,14 +99,39 @@
     </nav>
 
     <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-lead-in">Welcome To <span>Gebos Nig. Ltd.!</span></div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Explore</a>
+    <header id="home">
+        <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="item active" style="background-image: url('img/header-bg.jpg')">
+                    <div class="caption">
+                        <h1 class="animated fadeInLeftBig">Welcome to <span>Gebos Nig. LTD</span></h1>
+                        <p class="animated fadeInRightBig">It&apos;s Nice To Meet You</p>
+                        <a href="#about" class="page-scroll btn btn-xl">Explore</a>
+                    </div>
+                </div>
+                <div class="item" style="background-image: url('assets/img/slider/2.jpg')">
+                    <div class="caption">
+                        <h1 class="animated fadeInLeftBig">Build your Cooperative with <span>CoopHub</span></h1>
+                        <p class="animated fadeInRightBig">Fully responsive, manage your cooperative and contributions on the go. We cherish our users</p>
+                        <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Start now</a>
+                        <p class="animated fadeInRightBig mt++">Find a cooperative on CoopHub?</p>
+                        <a data-scroll class="btn btn-start animated fadeInUpBig" ui-sref="search">Find a Cooperative</a>
+                    </div>
+                </div>
+                <div class="item" style="background-image: url('assets/img/slider/3.jpg')">
+                    <div class="caption">
+                        <h1 class="animated fadeInLeftBig">Let <span>CoopHub</span> do the job while you relax</h1>
+                        <p class="animated fadeInRightBig">Join us now and let&apos;s move your cooperative to the next level</p>
+                        <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Start now</a>
+                        <p class="animated fadeInRightBig mt++">Find a cooperative on CoopHub?</p>
+                        <a data-scroll class="btn btn-start animated fadeInUpBig" ui-sref="search">Find a Cooperative</a>
+                    </div>
+                </div>
             </div>
-        </div>
+            <a class="left-control" href="#home-slider" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+            <a class="right-control" href="#home-slider" data-slide="next"><i class="fa fa-angle-right"></i></a>
+
+        </div><!--/#home-slider-->
     </header>
 
     <!-- About Section -->
