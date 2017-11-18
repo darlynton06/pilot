@@ -85,9 +85,9 @@
                     <li>
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#clients">Clients</a>
-                    </li>
+                   <!--  <li>
+                        <a class="page-scroll" href="#clients">Clients</a>  
+                    </li>  -->
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
@@ -297,7 +297,7 @@
         </div>
     </section>
 
-    <!-- Team Section -->
+    <!-- Team Section 
     <section id="clients" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -359,9 +359,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <!-- Clients Aside -->
+    <!-- Clients Aside 
     <aside class="clients">
         <div class="container">
             <div class="row">
@@ -387,7 +387,7 @@
                 </div>
             </div>
         </div>
-    </aside>
+    </aside> -->
 
     <!-- Contact Section -->
     <section id="contact">
