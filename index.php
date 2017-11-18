@@ -497,12 +497,22 @@
                                 
                                 
                             
-                                <ul class="list">
-                                    <li>Colour: <strong> White </strong> </li>
-                                    <li>Dimension: <strong> 110 x 220mm </strong> </li>
-                                    <li>Grammage: <strong> 70GSM </strong> </li>
-                                    <li>Boxed: <strong> 500pieces </strong> </li>
-                                </ul>
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-md-push-3 col-lg-6 col-lg-push-3">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                            <ul class="list list-unstyled">
+                                                <li>Colour: <strong> White </strong> </li>
+                                                <li>Dimension: <strong> 110 x 220mm </strong> </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                            <ul class="list list-unstyled">
+                                                <li>Grammage: <strong> 70GSM </strong> </li>
+                                                <li>Boxed: <strong> 500pieces </strong> </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
