@@ -512,9 +512,13 @@
                                             </ul>
                                         </div>
                                     </div>
+
+                                    <div class="row">
+                                        <div class="col-xs-12 text-center">
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                                        </div>
+                                    </div>
                                 </div>
-                                <br/><br/>
-                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
                     </div>
