@@ -183,7 +183,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Products</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Some of our products.</h3>
                 </div>
             </div>
             <div class="row">
@@ -197,8 +197,8 @@
                         <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Round Icons</h4>
-                        <p class="text-muted">Graphic Design</p>
+                        <h4>Glamour Envelopes</h4>
+                        
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -211,8 +211,8 @@
                         <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Startup Framework</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Hi-Brite Envelope</h4>
+                        
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -225,8 +225,8 @@
                         <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Treehouse</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Niger Manilla Envelope</h4>
+                        
                     </div>
                 </div>
             </div>
@@ -257,15 +257,15 @@
                         <i class="fa mdi mdi-file-document fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Paper Sales</h4>
-                    <p class="text-muted">Lorem ipsm dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">We have varieties of papers available in Abuja, Lagos and Enugu.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa mdi mdi-security-home fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Paper Sales</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <h4 class="service-heading">Door Sales</h4>
+                    <p class="text-muted">We sell variety of doors including American Steel and Turkish Doors in our stores in Abuja and Enugu</p>
                 </div>
             </div>
         </div>
