@@ -3,7 +3,7 @@
 
 <head>
 
-    <base href="/pilot/" />
+    <base href="/" />
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,10 +14,10 @@
     <title>Gebos Nigeria Limited</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="asset/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="asset/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -34,20 +34,20 @@
     <![endif]-->
 
 		<!-- favicon -->
-		<link rel="apple-touch-icon" sizes="57x57" href="vendor/favicons/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="vendor/favicons/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="vendor/favicons/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="vendor/favicons/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="vendor/favicons/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="vendor/favicons/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="vendor/favicons/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="vendor/favicons/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="vendor/favicons/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="vendor/favicons/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="vendor/favicons/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="vendor/favicons/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="vendor/favicons/favicon-16x16.png">
-        <link rel="manifest" href="vendor/favicons/manifest.json">
+		<link rel="apple-touch-icon" sizes="57x57" href="asset/favicons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="asset/favicons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="asset/favicons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="asset/favicons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="asset/favicons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="asset/favicons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="asset/favicons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="asset/favicons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="asset/favicons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="asset/favicons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="asset/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="asset/favicons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="asset/favicons/favicon-16x16.png">
+        <link rel="manifest" href="asset/favicons/manifest.json">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
@@ -107,13 +107,149 @@
         </div>
     </header>
 
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">We offer various services such as:</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Printing Press</h4>
+                    <p class="text-muted">Gebos Press produces high quality products to meet your demand.It is located at 14 Waziri Ibrahim Crescent Gudu District-Apo, Abuja.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Paper Sales</h4>
+                    <p class="text-muted">Lorem ipsm dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Paper Sales</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Portfolio</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Round Icons</h4>
+                        <p class="text-muted">Graphic Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Startup Framework</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Treehouse</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Golden</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Escape</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Dreams</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- About Section -->
     <section id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Get to know us better.</h3>
                 </div>
             </div>
             <div class="row">
@@ -125,11 +261,12 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
+                                    <h4></h4>
+                                    <h4 class="subheading">Company Overview</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">GEBOS NIGERIA LIMITED is service delivery company and we are currently in our 25th year in business! We are able to offer you a broad range of printing services from graphic design and layout to high-speed, high-volume copying in both black and white and coloured as well as litho printing (on a traditional printing press).
+                                    <p class="text-muted">GEBOS NIGERIA LIMITED is service delivery company and we are currently in our 25th year in business! We are able to offer you a broad range of printing 
+                                        services from graphic design and layout to high-speed, high-volume copying in both black and white and coloured as well as litho printing (on a traditional printing press).
                                       We will meet all your corporate stationery, printing requirements and supply of various office equipment to mention but a few.</p>
                                 </div>
                             </div>
@@ -140,7 +277,7 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>March 2011</h4>
+                                    <h4></h4>
                                     <h4 class="subheading">Mission</h4>
                                 </div>
                                 <div class="timeline-body">
@@ -154,11 +291,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4></h4>
+                                    <h4 class="subheading">Vision</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">To be a pacesetter for printing business in Nigeria</p>
                                 </div>
                             </div>
                         </li>
@@ -642,10 +779,10 @@
     </div>
 
     <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="asset/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="asset/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>
