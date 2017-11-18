@@ -3,7 +3,7 @@
 
 <head>
 
-    <base href="/pilot/" />
+    <base href="/" />
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -107,7 +107,6 @@
         </div>
     </header>
 
-<<<<<<< HEAD:index.php
     <!-- Services Section -->
     <section id="services">
         <div class="container">
@@ -244,8 +243,6 @@
         </div>
     </section>
 
-=======
->>>>>>> 19cd5f65f98b163b3d743b0b7fa50c4239825db6:index.html
     <!-- About Section -->
     <section id="about">
         <div class="container">
