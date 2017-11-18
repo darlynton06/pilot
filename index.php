@@ -85,9 +85,9 @@
                     <li>
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#clients">Clients</a>
-                    </li>
+                   <!--  <li>
+                        <a class="page-scroll" href="#clients">Clients</a>  
+                    </li>  -->
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
@@ -209,7 +209,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Products</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Some of our products.</h3>
                 </div>
             </div>
             <div class="row">
@@ -223,8 +223,8 @@
                         <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Round Icons</h4>
-                        <p class="text-muted">Graphic Design</p>
+                        <h4>Glamour Envelopes</h4>
+                        
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -237,8 +237,8 @@
                         <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Startup Framework</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Hi-Brite Envelope</h4>
+                        
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -251,8 +251,8 @@
                         <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Treehouse</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Niger Manilla Envelope</h4>
+                        
                     </div>
                 </div>
             </div>
@@ -283,15 +283,15 @@
                         <i class="fa mdi mdi-file-document fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Paper Sales</h4>
-                    <p class="text-muted">Lorem ipsm dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">We have varieties of papers available in Abuja, Lagos and Enugu.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa mdi mdi-security-home fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Paper Sales</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <h4 class="service-heading">Door Sales</h4>
+                    <p class="text-muted">We sell variety of doors including American Steel and Turkish Doors in our stores in Abuja and Enugu</p>
                 </div>
             </div>
         </div>
@@ -302,7 +302,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
+                    <h2 class="section-heading">Our Clients</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
@@ -395,7 +395,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">You can reach us via.</h3>
                 </div>
             </div>
             <div class="row">
@@ -434,10 +434,10 @@
                     <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                         <p>You can also find us through any of these</p>
                         <ul class="address">
-                            <li><i class="fa fa-map-marker"></i> <span> Address:</span> Crafind House, Plot 32 off Lanto Road, Pasali New Extension, P.M.B 09 Kuje FCT, Nigeria</li>
-                            <li><i class="fa fa-phone"></i> <span> Phone:</span> +234814-5517-841, +234803-1986-410 </li>
-                            <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:support@lysi.com.ng"> support@lysi.com.ng</a></li>
-                            <li><i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.lysi.com.ng</a></li>
+                            <li><i class="fa fa-map-marker"></i> <span> Address:</span> No.1 Okorie Close Upper Chime Avenue Enugu, Nigeria</li>
+                            <li><i class="fa fa-phone"></i> <span> Phone:</span> +234902-0007-380, +234902-0007-831 </li>
+                            <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:ifeanyi06@yahoo.com"> ifeanyi06@yahoo.com</a></li>
+                            <li><i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.gebos.com.ng</a></li>
                         </ul>
                     </div>
                 </div>
@@ -491,16 +491,17 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2>Glamour Envelope</h2>
+                                <p class="item-intro text-muted">Envelope Description.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <p>
-                                    <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
-                                <ul class="list-inline">
-                                    <li>Date: July 2014</li>
-                                    <li>Client: Round Icons</li>
-                                    <li>Category: Graphic Design</li>
+                                
+                                
+                            
+                                <ul class="list">
+                                    <li>Colour: <strong> White </strong> </li>
+                                    <li>Dimension: <strong> 110 x 220mm </strong> </li>
+                                    <li>Grammage: <strong> 70GSM </strong> </li>
+                                    <li>Boxed: <strong> 500pieces </strong> </li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -525,11 +526,16 @@
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
-                                <h2>Project Heading</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2>Hi-brite Envelope</h2>
+                                <p class="item-intro text-muted">Envelope Description.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png" alt="">
-                                <p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-                                <p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
+                                <ul class="list">
+                                    <li>Colour: <strong> White </strong> </li>
+                                    <li>Dimension: <strong> 110 x 220mm </strong> </li>
+                                    <li>Grammage: <strong> 70GSM </strong> </li>
+                                    <li>Boxed: <strong> 500pieces </strong> </li>
+                                </ul>
+                               
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
@@ -554,11 +560,15 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2>Niger Manilla E</h2>
+                                <p class="item-intro text-muted">Envelop Description.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
-                                <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-                                <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
+                                <ul class="list">
+                                    <li>Colour: <strong> White </strong> </li>
+                                    <li>Dimension: <strong> 110 x 220mm </strong> </li>
+                                    <li>Grammage: <strong> 70GSM </strong> </li>
+                                    <li>Boxed: <strong> 500pieces </strong> </li>
+                                </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
