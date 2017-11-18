@@ -489,7 +489,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
+                            <div class="modal-body text-center">
                                 <!-- Project Details Go Here -->
                                 <h2>Glamour Envelope</h2>
                                 <p class="item-intro text-muted">Envelope Description.</p>
@@ -497,7 +497,7 @@
                                 
                                 
                             
-                                <div class="col-xs-12 col-sm-12 col-md-6 col-md-push-3 col-lg-6 col-lg-push-3">
+                                <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-2 col-lg-8 col-lg-push-2">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                             <ul class="list list-unstyled">
@@ -513,6 +513,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                <br/>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
