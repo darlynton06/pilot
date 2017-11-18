@@ -779,7 +779,7 @@
     </div>
 
     <!-- jQuery -->
-    <script src="assets/jquery/jquery.min.js"></script>
+    <script src="asset/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="asset/bootstrap/js/bootstrap.min.js"></script>
