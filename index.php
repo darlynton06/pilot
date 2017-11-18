@@ -395,7 +395,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">You can reach us via.</h3>
                 </div>
             </div>
             <div class="row">
@@ -434,10 +434,10 @@
                     <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                         <p>You can also find us through any of these</p>
                         <ul class="address">
-                            <li><i class="fa fa-map-marker"></i> <span> Address:</span> Crafind House, Plot 32 off Lanto Road, Pasali New Extension, P.M.B 09 Kuje FCT, Nigeria</li>
-                            <li><i class="fa fa-phone"></i> <span> Phone:</span> +234814-5517-841, +234803-1986-410 </li>
-                            <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:support@lysi.com.ng"> support@lysi.com.ng</a></li>
-                            <li><i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.lysi.com.ng</a></li>
+                            <li><i class="fa fa-map-marker"></i> <span> Address:</span> No.1 Okorie Close Upper Chime Avenue Enugu, Nigeria</li>
+                            <li><i class="fa fa-phone"></i> <span> Phone:</span> +234902-0007-380, +234902-0007-831 </li>
+                            <li><i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:ifeanyi06@yahoo.com"> ifeanyi06@yahoo.com</a></li>
+                            <li><i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.gebos.com.ng</a></li>
                         </ul>
                     </div>
                 </div>
