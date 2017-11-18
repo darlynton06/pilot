@@ -302,7 +302,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
+                    <h2 class="section-heading">Our Clients</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
@@ -526,7 +526,7 @@
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
-                                <h2>Hibrite Envelope</h2>
+                                <h2>Hi-brite Envelope</h2>
                                 <p class="item-intro text-muted">Envelope Description.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png" alt="">
                                 <ul class="list">
