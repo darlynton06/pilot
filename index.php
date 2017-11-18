@@ -14,10 +14,10 @@
     <title>Gebos Nigeria Limited</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="asset/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="asset/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -34,20 +34,20 @@
     <![endif]-->
 
 		<!-- favicon -->
-		<link rel="apple-touch-icon" sizes="57x57" href="vendor/favicons/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="vendor/favicons/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="vendor/favicons/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="vendor/favicons/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="vendor/favicons/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="vendor/favicons/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="vendor/favicons/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="vendor/favicons/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="vendor/favicons/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="vendor/favicons/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="vendor/favicons/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="vendor/favicons/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="vendor/favicons/favicon-16x16.png">
-        <link rel="manifest" href="vendor/favicons/manifest.json">
+		<link rel="apple-touch-icon" sizes="57x57" href="asset/favicons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="asset/favicons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="asset/favicons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="asset/favicons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="asset/favicons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="asset/favicons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="asset/favicons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="asset/favicons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="asset/favicons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="asset/favicons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="asset/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="asset/favicons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="asset/favicons/favicon-16x16.png">
+        <link rel="manifest" href="asset/favicons/manifest.json">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
@@ -779,10 +779,10 @@
     </div>
 
     <!-- jQuery -->
-    <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="asset/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>
