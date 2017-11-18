@@ -430,7 +430,7 @@
                         </div>
                     </form>
                 </div>
-				<div class="col-sm-6">
+				<div class="col-sm-6" style="color: #FFF !important;">
                     <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                         <p>You can also find us through any of these</p>
                         <ul class="address">
