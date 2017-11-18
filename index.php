@@ -297,7 +297,7 @@
         </div>
     </section>
 
-    <!-- Team Section -->
+    <!-- Team Section 
     <section id="clients" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -359,9 +359,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <!-- Clients Aside -->
+    <!-- Clients Aside 
     <aside class="clients">
         <div class="container">
             <div class="row">
@@ -387,7 +387,7 @@
                 </div>
             </div>
         </div>
-    </aside>
+    </aside> -->
 
     <!-- Contact Section -->
     <section id="contact">
@@ -430,7 +430,7 @@
                         </div>
                     </form>
                 </div>
-				<div class="col-sm-6">
+				<div class="col-sm-6" style="color: #FFF !important;">
                     <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                         <p>You can also find us through any of these</p>
                         <ul class="address">
